@@ -23,3 +23,13 @@ I'm a Data Scientist with [Development Data Partnership](https://datapartnership
 </a>
 <a href="https://www.linkedin.com/in/g4brielvs" target="_blank"><img src="https://img.shields.io/badge/-g4brielvs-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g4brielvs/">
 </a>
+
+## Projects I contributed to
+
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+- [joke2k/faker](https://github.com/joke2k/faker)
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
+- [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor)
+- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+
+
