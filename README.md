@@ -28,6 +28,7 @@ I'm a Data Scientist with [Development Data Partnership](https://datapartnership
 
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [microsoft/PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples)
+- [worldbank/dime-data-handbook](https://github.com/worldbank/dime-data-handbook)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 - [joke2k/faker](https://github.com/joke2k/faker)
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
