@@ -1,30 +1,56 @@
 <h1 align="center">
   Hello there, I'm <a href="https://g4brielvs.me" target="_blank">Gabriel</a> 👋
+  <br>
+  <a href="https://twitter.com/g4brielvs" target="_blank"><img src="https://img.shields.io/badge/-g4brielvs-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/g4brielvs">
+</a>
+<a href="https://www.linkedin.com/in/g4brielvs" target="_blank"><img src="https://img.shields.io/badge/-g4brielvs-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g4brielvs/">
+</a>
+
 </h1>
 <br>
 
 I'm a Data Scientist with [Development Data Partnership](https://datapartnership.org) at the [World Bank](https://worldbank.org). I'm currently living in  <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> <b>New York City, USA</b>.</p>
 
-- 💬  Ask me about `Data`, `New York City` and `Sci-fi`. [Drop me a line!](https://github.com/g4brielvs/g4brielvs/discussions)
-- 🚀 I haven’t been everywhere, but it’s on my list. 🇺🇸 🇧🇷 🇮🇱 🇵🇸 🇯🇴 🇨🇿 🇳🇱 🇭🇺 🇩🇪 🇵🇱 🇦🇹 🇸🇰
+- 💬  Ask me anything about `Data`, `Linguistscs`, `Sci-fi` and `New York City`. [Drop me a line!](https://github.com/g4brielvs/g4brielvs/discussions)
+- 🚀 I [haven’t been everywhere](https://g4brielvs.me/about/), but it’s on my list. Tell me an amazing experience you hold dear in you heart. 
 
 ## Things I code with
 
-<a><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-<a><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-<a><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-<a><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-<a><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-<a><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
+<a><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a><img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
+<a><img alt="scipy" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"></a>
+<a><img alt="pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a><img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+<a><img alt="plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a>
+<a><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
+<a><img alt="Julia" src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"></a>
+<a><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+<a><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 
-## Where to find me
+<a><img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a><img alt="shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+<a><img alt="oh-my-zsh" src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white"></a>
+<a><img alt="starship" src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white"></a>
+<a><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+<a><img alt="code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+<a><img alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"></a>
+<a><img alt="emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"></a>
 
-<a href="https://twitter.com/g4brielvs" target="_blank"><img src="https://img.shields.io/badge/-g4brielvs-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/g4brielvs">
-</a>
-<a href="https://www.linkedin.com/in/g4brielvs" target="_blank"><img src="https://img.shields.io/badge/-g4brielvs-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g4brielvs/">
-</a>
+<a><img alt="conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
+<a><img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a><img alt="github-actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
+<a><img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+<a><img alt="google-cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 
-## Projects I contributed to
+<a><img alt="jekyll" src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"></a>
+<a><img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+<a><img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+<a><img alt="rubyonrails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></a>
+
+<a><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
+<a><img alt="QGIS" src="https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white"></a>
+
+## Projects I contribute to
 
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [microsoft/PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples)
