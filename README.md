@@ -11,7 +11,7 @@
 
 I'm a Data Scientist with [Development Data Partnership](https://datapartnership.org) at the [World Bank](https://worldbank.org). I'm currently living in  <img src="https://image.flaticon.com/icons/svg/197/197484.svg" width="13"/> <b>New York City, USA</b>.</p>
 
-- 💬  Ask me anything about `Data`, `Linguistscs`, `Sci-fi` and `New York City`. [Drop me a line!](https://github.com/g4brielvs/g4brielvs/discussions)
+- 💬  Ask me anything about `Data`, `Linguistics`, `Sci-fi` and `New York City`. [Drop me a line!](https://github.com/g4brielvs/g4brielvs/discussions)
 - 🚀 I [haven’t been everywhere](https://g4brielvs.me/about/), but it’s on my list. Tell me an amazing experience you hold dear in you heart. 
 
 ## Things I code with
@@ -24,7 +24,6 @@ I'm a Data Scientist with [Development Data Partnership](https://datapartnership
 <a><img alt="plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a>
 <a><img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
 <a><img alt="Julia" src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"></a>
-<a><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 
 <a><img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -34,7 +33,6 @@ I'm a Data Scientist with [Development Data Partnership](https://datapartnership
 <a><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
 <a><img alt="code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a><img alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"></a>
-<a><img alt="emacs" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"></a>
 
 <a><img alt="conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
 <a><img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
