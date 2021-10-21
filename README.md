@@ -26,10 +26,9 @@ I'm a Data Scientist with [Development Data Partnership](https://datapartnership
 
 ## Projects I contributed to
 
+- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [microsoft/PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 - [joke2k/faker](https://github.com/joke2k/faker)
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
-- [okfn-brasil/serenata-de-amor](https://github.com/okfn-brasil/serenata-de-amor)
-- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
-
 
