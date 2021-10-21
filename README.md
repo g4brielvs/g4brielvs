@@ -48,7 +48,7 @@ I'm a Data Scientist with [Development Data Partnership](https://datapartnership
 <a><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
 <a><img alt="QGIS" src="https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white"></a>
 
-## Projects I contribute to
+## Things I contribute to
 
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [microsoft/PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples)
