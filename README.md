@@ -9,7 +9,7 @@
 </h1>
 <br>
 
-I'm a Data Scientist with [Development Data Partnership](https://datapartnership.org) at the [World Bank](https://worldbank.org). I'm currently living in  🗽 <b>New York City, USA</b>.</p>
+I'm a Data Scientist with [Development Data Partnership](https://datapartnership.org) at the [World Bank](https://worldbank.org). I'm in  🗽 <b>New York City, USA</b>.</p>
 
 - 💬  Ask me anything about `Data`, `Linguistics`, `Sci-fi` and `New York City`. [Drop me a line!](https://github.com/g4brielvs/g4brielvs/discussions)
 - 🚀 I [haven’t been everywhere](https://g4brielvs.me/about/), but it’s on my list. Tell me an amazing experience you hold dear in you heart. 
