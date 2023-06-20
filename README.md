@@ -9,12 +9,12 @@
 </h1>
 <br>
 
-I'm with the [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec#2) at the [World Bank](https://worldbank.org), where I work as a *Data Scientist/Evangelist* with the [World Bank Data Lab](https://wbdatalab.org) and the [Development Data Partnership](https://datapartnership.org). 
+I am a mathematician with the [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec#2) at the [World Bank](https://worldbank.org), where I am the *Lead Data Scientist* for the [World Bank Data Lab](https://wbdatalab.org) and the [Development Data Partnership](https://datapartnership.org). 
 
 - 💬  Ask me anything about `Data`, `Linguistics`, `Sci-fi` and `New York City`. [Drop me a line!](https://github.com/g4brielvs/g4brielvs/discussions)
 - 🚀 I [haven’t been everywhere](https://g4brielvs.me/about/), but it’s on my list. Tell me an amazing experience you hold dear in you heart. 
 
-## Things I code with
+## Languages I speak with
 
 <a><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a><img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
@@ -48,12 +48,15 @@ I'm with the [Development Data Group](https://www.worldbank.org/en/about/unit/un
 <a><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
 <a><img alt="QGIS" src="https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white"></a>
 
-## Things I contribute to
+## Projects I contribute to
 
+- [datapartnership](https://github.com/datapartnership/datapartnership.github.io)
+- [datapartnership/syria-economic-monitor](https://datapartnership.org/syria-economic-monitor)
+- [datapartnership/urkiye-earthquake-impact](https://datapartnership.org/turkiye-earthquake-impact)
+- [worldbank/template](https://github.com/worldbank/template)
+- [worldbank/dime-data-handbook](https://github.com/worldbank/dime-data-handbook)
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [microsoft/PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples)
-- [worldbank/dime-data-handbook](https://github.com/worldbank/dime-data-handbook)
-- [datapartnership/datapartnership.github.io](https://github.com/datapartnership/datapartnership.github.io)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
 - [joke2k/faker](https://github.com/joke2k/faker)
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
