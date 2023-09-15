@@ -1,11 +1,5 @@
 <h1 align="center">
-  Hello there, I'm <a href="https://g4brielvs.me" target="_blank">Gabriel</a> 👋
-  <br>
-  <a href="https://twitter.com/g4brielvs" target="_blank"><img src="https://img.shields.io/badge/-g4brielvs-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/g4brielvs">
-</a>
-<a href="https://www.linkedin.com/in/g4brielvs" target="_blank"><img src="https://img.shields.io/badge/-g4brielvs-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g4brielvs/">
-</a>
-
+  Hi, I'm <a href="https://g4brielvs.me" target="_blank">Gabriel</a> 👋
 </h1>
 <br>
 
