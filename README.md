@@ -5,8 +5,7 @@
 
 I am a Data Scientist/Data Science Advocate with the [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec#2) at the [World Bank](https://worldbank.org).   Through the [World Bank Data Lab](https://wbdatalab.org) and the [Development Data Partnership](https://datapartnership.org), I've supported projects to find, access and use data and methods for global development. 
 
-- 💬  Ask me anything about `Data`, `Linguistics`, `Sci-fi` and `New York City`. [Drop me a line!](https://github.com/g4brielvs/g4brielvs/discussions)
-- 🚀 I [haven’t been everywhere](https://g4brielvs.me/about/), but it’s on my list. Tell me an amazing experience you hold dear in you heart. 
+- 💬  Tell me an amazing experience you hold dear in you heart. Or ask me anything about `Data`, `Linguistics`, `Sci-fi` and `New York City`. [Drop me a line!](https://github.com/g4brielvs/g4brielvs/discussions)
 
 ## Languages I speak with
 
