@@ -7,7 +7,21 @@ I am a Data Scientist/Data Science Advocate with the [Development Data Group](ht
 
 💬 Ask ask me anything about `Data`, `Linguistics`, `Sci-fi` and `New York City`. Or tell me something you hold dear in you heart. [Drop me a line!](https://github.com/g4brielvs/g4brielvs/discussions)
 
-## Languages I speak with
+## Projects I contribute to
+
+- [Development Data Partnership](https://github.com/datapartnership)
+- [datapartnership/syria-economic-monitor](https://datapartnership.org/syria-economic-monitor)
+- [datapartnership/turkiye-earthquake-impact](https://datapartnership.org/turkiye-earthquake-impact)
+- [worldbank/template](https://github.com/worldbank/template)
+- [worldbank/REaLTabFormer](https://github.com/worldbank/REaLTabFormer) 
+- [worldbank/dime-data-handbook](https://github.com/worldbank/dime-data-handbook)
+- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [microsoft/PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples)
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
+- [joke2k/faker](https://github.com/joke2k/faker)
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
+
+## Tools I've experience with
 
 <a><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a><img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
@@ -40,18 +54,3 @@ I am a Data Scientist/Data Science Advocate with the [Development Data Group](ht
 
 <a><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
 <a><img alt="QGIS" src="https://img.shields.io/badge/qgis-3.20_Odense-93b023?&style=for-the-badge&logo=qgis&logoColor=white"></a>
-
-## Projects I contribute to
-
-- [Development Data Partnership](https://github.com/datapartnership)
-- [datapartnership/syria-economic-monitor](https://datapartnership.org/syria-economic-monitor)
-- [datapartnership/turkiye-earthquake-impact](https://datapartnership.org/turkiye-earthquake-impact)
-- [worldbank/template](https://github.com/worldbank/template)
-- [worldbank/REaLTabFormer](https://github.com/worldbank/REaLTabFormer) 
-- [worldbank/dime-data-handbook](https://github.com/worldbank/dime-data-handbook)
-- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
-- [microsoft/PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples)
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask)
-- [joke2k/faker](https://github.com/joke2k/faker)
-- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
-
