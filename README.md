@@ -52,7 +52,7 @@ I am a Data Scientist/Data Science Advocate with the [Development Data Group](ht
 
 - [datapartnership](https://github.com/datapartnership/datapartnership.github.io)
 - [datapartnership/syria-economic-monitor](https://datapartnership.org/syria-economic-monitor)
-- [datapartnership/urkiye-earthquake-impact](https://datapartnership.org/turkiye-earthquake-impact)
+- [datapartnership/turkiye-earthquake-impact](https://datapartnership.org/turkiye-earthquake-impact)
 - [worldbank/template](https://github.com/worldbank/template)
 - [worldbank/REaLTabFormer](https://github.com/worldbank/REaLTabFormer) 
 - [worldbank/dime-data-handbook](https://github.com/worldbank/dime-data-handbook)
