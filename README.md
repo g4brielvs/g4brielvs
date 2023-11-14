@@ -9,7 +9,7 @@ I am a Data Scientist with the [Development Data Group](https://www.worldbank.or
 
 ## Projects I contribute to
 
-- [Development Data Partnership](https://github.com/datapartnership)
+- [datapartnership](https://github.com/datapartnership)
 - [datapartnership/syria-economic-monitor](https://datapartnership.org/syria-economic-monitor)
 - [datapartnership/turkiye-earthquake-impact](https://datapartnership.org/turkiye-earthquake-impact)
 - [worldbank/template](https://github.com/worldbank/template)
