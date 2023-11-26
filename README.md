@@ -3,15 +3,17 @@
 </h1>
 <br>
 
-I am a Data Scientist with the [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec#2) at the [World Bank](https://worldbank.org).   Through the [World Bank Data Lab](https://wbdatalab.org) and the [Development Data Partnership](https://datapartnership.org), I enable projects to find, access and use data and methods for global development. 
+I am a Data Engineer/Scientist with the [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec#2) at the [World Bank](https://worldbank.org).   Through the [World Bank Data Lab](https://wbdatalab.org) and the [Development Data Partnership](https://datapartnership.org), I enable projects to find, access and use data and methods for global development. 
 
 💬 [Drop me a line!](https://github.com/g4brielvs/g4brielvs/discussions) Ask me anything about `Data`, `Linguistics`, `Sci-fi` and `New York City`. Or tell me something you hold dear in you heart. 
 
 ## Projects I contribute to
 
 - [datapartnership](https://github.com/datapartnership)
-- [datapartnership/syria-economic-monitor](https://datapartnership.org/syria-economic-monitor)
+- [datapartnership/gaza-israel-conflict-impact-analysis](https://datapartnership.org/gaza-israel-conflict-impact-analysis/)
+- [https://datapartnership.org/lebanon-economic-monitor](https://datapartnership.org/lebanon-economic-monitor)
 - [datapartnership/turkiye-earthquake-impact](https://datapartnership.org/turkiye-earthquake-impact)
+- [datapartnership/syria-economic-monitor](https://datapartnership.org/syria-economic-monitor)
 - [worldbank/template](https://github.com/worldbank/template)
 - [worldbank/REaLTabFormer](https://github.com/worldbank/REaLTabFormer) 
 - [worldbank/dime-data-handbook](https://github.com/worldbank/dime-data-handbook)
