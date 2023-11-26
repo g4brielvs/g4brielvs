@@ -11,7 +11,7 @@ I am a Data Engineer/Scientist with the [Development Data Group](https://www.wor
 
 - [datapartnership](https://github.com/datapartnership)
 - [datapartnership/gaza-israel-conflict-impact-analysis](https://datapartnership.org/gaza-israel-conflict-impact-analysis/)
-- [datapartnership.org/lebanon-economic-monitor](https://datapartnership.org/lebanon-economic-monitor)
+- [datapartnership/lebanon-economic-monitor](https://datapartnership.org/lebanon-economic-monitor)
 - [datapartnership/turkiye-earthquake-impact](https://datapartnership.org/turkiye-earthquake-impact)
 - [datapartnership/syria-economic-monitor](https://datapartnership.org/syria-economic-monitor)
 - [worldbank/template](https://github.com/worldbank/template)
