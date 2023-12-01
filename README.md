@@ -3,11 +3,19 @@
 </h1>
 <br>
 
-I am a Data Engineer/Scientist with the [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec#2) at the [World Bank](https://worldbank.org).   Through the [World Bank Data Lab](https://wbdatalab.org) and the [Development Data Partnership](https://datapartnership.org), I enable projects to find, access and use data and methods for global development. 
+I'm Gabriel, a passionate Geospatial Data Scientist dedicated to leveraging data-driven insights for sustainable development at the World Bank. 🌐 With a solid background in geospatial analysis, remote sensing, and data visualization, I thrive on extracting meaningful patterns from complex spatial datasets to address pressing global challenges.
+
+🛰️ **Current Focus**: At the World Bank, I'm engaged in pioneering projects that harness geospatial data to inform policy decisions, tackle climate change adaptation, and promote inclusive development worldwide. From analyzing satellite imagery to modeling spatial patterns, my aim is to create actionable insights that drive positive change.
+
+📚 **Continuous Learning**: I'm a firm believer in lifelong learning, constantly exploring new methodologies, and staying updated with the latest advancements in technology to push the boundaries of what's possible.
+
+🌟 **Let's Connect**: I'm excited to engage with like-minded professionals, researchers, and enthusiasts passionate about geospatial data science and its transformative potential. Let's collaborate, learn, and make an impact together!
 
 💬 [Drop me a line!](https://github.com/g4brielvs/g4brielvs/discussions) Ask me anything about `Data`, `Linguistics`, `Sci-fi` and `New York City`. Or tell me something you hold dear in you heart. 
 
-## Projects I contribute to
+## 🔍 **On GitHub**: 
+
+Here, I share my experiments, projects, and tools aimed at advancing geospatial analysis and its application in addressing global challenges. Feel free to explore, collaborate, and innovate together!
 
 - [datapartnership](https://github.com/datapartnership)
 - [datapartnership/gaza-israel-conflict-impact-analysis](https://datapartnership.org/gaza-israel-conflict-impact-analysis/)
