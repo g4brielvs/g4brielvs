@@ -26,6 +26,7 @@ Here, I share my experiments, projects, and tools aimed at advancing geospatial 
 - [datapartnership/syria-economic-monitor](https://datapartnership.org/syria-economic-monitor)
 - [worldbank/template](https://github.com/worldbank/template)
 - [worldbank/blackmarblepy](https://worldbank.github.io/blackmarblepy)
+- [worldbank/blackmarbler](https://worldbank.github.io/blackmarbler
 - [worldbank/REaLTabFormer](https://github.com/worldbank/REaLTabFormer) 
 - [worldbank/climateknowledgeportal](worldbank.github.io/climateknowledgeportal)
 - [worldbank/dime-data-handbook](https://github.com/worldbank/dime-data-handbook)
