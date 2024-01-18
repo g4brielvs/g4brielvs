@@ -24,6 +24,7 @@ Here, I share my experiments, projects, and tools aimed at advancing geospatial 
 - [datapartnership/lebanon-economic-monitor](https://datapartnership.org/lebanon-economic-monitor)
 - [datapartnership/turkiye-earthquake-impact](https://datapartnership.org/turkiye-earthquake-impact)
 - [datapartnership/syria-economic-monitor](https://datapartnership.org/syria-economic-monitor)
+- [worldbank](https://github.com/worldbank)
 - [worldbank/template](https://github.com/worldbank/template)
 - [worldbank/blackmarblepy](https://worldbank.github.io/blackmarblepy)
 - [worldbank/blackmarbler](https://worldbank.github.io/blackmarbler)
