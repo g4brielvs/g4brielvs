@@ -5,7 +5,7 @@
 
 I'm Gabriel, a passionate Geospatial Data Scientist dedicated to leveraging data-informed insights for sustainable development at the [Development Data Partnership](https://datapartnership.org) and the [Development Data Group/World Bank](https://www.worldbank.org/en/about/unit/unit-dec/dev). 🌐 
 
-With a solid background in geospatial analysis, remote sensing, and data visualization, I thrive on extracting meaningful patterns from complex spatial datasets to address pressing global challenges.
+With a background in Applied Mathematics, Operations Research, Geospatial Analysis, Data Visualization, I thrive on extracting meaningful patterns from complex spatial datasets to address pressing global challenges.
 
 🛰️ **Current Focus**: At the World Bank, I'm engaged in pioneering projects that harness geospatial data to inform policy decisions, tackle climate change adaptation, and promote inclusive development worldwide. From analyzing satellite imagery to modeling spatial patterns, my aim is to create actionable insights that drive positive change.
 
