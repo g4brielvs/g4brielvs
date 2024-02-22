@@ -17,7 +17,7 @@ With a background in Applied Mathematics, Operations Research, Geospatial Analys
 
 ## 🔍 **On GitHub**:
 
-Here I share a non-exaustive list of my experiments, projects, and tools aimed at advancing geospatial analysis and its application in addressing global challenges. Feel free to explore, collaborate, and innovate together!
+Here I share a non-exaustive list of my contributions, experiments, projects, and tools aimed at advancing geospatial analysis and its application in addressing global challenges. Feel free to explore, collaborate, and innovate together!
 
 - [worldbank](https://github.com/worldbank)
 - [worldbank/blackmarblepy](https://worldbank.github.io/blackmarblepy)
