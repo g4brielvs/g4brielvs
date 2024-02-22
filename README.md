@@ -15,21 +15,22 @@ With a background in Applied Mathematics, Operations Research, Geospatial Analys
 
 💬 [Drop me a line!](https://github.com/g4brielvs/g4brielvs/discussions) Ask me anything about `Data`, `Linguistics`, `Sci-fi` and `New York City`. Or tell me something you hold dear in you heart. 
 
-## 🔍 **On GitHub**: 
+## 🔍 **On GitHub**:
 
 Here, I share my experiments, projects, and tools aimed at advancing geospatial analysis and its application in addressing global challenges. Feel free to explore, collaborate, and innovate together!
 
+- [worldbank](https://github.com/worldbank)
+- [worldbank/blackmarblepy](https://worldbank.github.io/blackmarblepy)
+- [worldbank/blackmarbler](https://worldbank.github.io/blackmarbler)
+- [worldbank/climateknowledgeportal](worldbank.github.io/climateknowledgeportal)
+- [worldbank/GEEST](worldbank.github.io/GEEST)
 - [datapartnership](https://github.com/datapartnership)
+- [worldbank/template](https://github.com/worldbank/template)
 - [datapartnership/gaza-israel-conflict-impact-analysis](https://datapartnership.org/gaza-israel-conflict-impact-analysis/)
 - [datapartnership/lebanon-economic-monitor](https://datapartnership.org/lebanon-economic-monitor)
 - [datapartnership/turkiye-earthquake-impact](https://datapartnership.org/turkiye-earthquake-impact)
 - [datapartnership/syria-economic-monitor](https://datapartnership.org/syria-economic-monitor)
-- [worldbank](https://github.com/worldbank)
-- [worldbank/template](https://github.com/worldbank/template)
-- [worldbank/blackmarblepy](https://worldbank.github.io/blackmarblepy)
-- [worldbank/blackmarbler](https://worldbank.github.io/blackmarbler)
 - [worldbank/REaLTabFormer](https://github.com/worldbank/REaLTabFormer) 
-- [worldbank/climateknowledgeportal](worldbank.github.io/climateknowledgeportal)
 - [worldbank/dime-data-handbook](https://github.com/worldbank/dime-data-handbook)
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [microsoft/PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples)
@@ -37,7 +38,7 @@ Here, I share my experiments, projects, and tools aimed at advancing geospatial 
 - [joke2k/faker](https://github.com/joke2k/faker)
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver)
 
-### Experienced with
+### **with**:
 
 <a><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a><img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
