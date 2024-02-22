@@ -3,7 +3,7 @@
 </h1>
 <br>
 
-I'm Gabriel, a passionate Geospatial Data Scientist dedicated to leveraging data-informed insights for sustainable development at the [Development Data Partnership](https://datapartnership.org) and the [Development Data Group/World Bank](https://www.worldbank.org/en/about/unit/unit-dec/dev). 🌐 
+I'm Gabriel, a passionate Geospatial Data Scientist dedicated to leveraging data-informed insights for [sustainable development](https://sdgs.un.org/goals) at the [Development Data Partnership](https://datapartnership.org) and the [Development Data Group/World Bank](https://www.worldbank.org/en/about/unit/unit-dec/dev) 🌐. 
 
 With a background in Applied Mathematics, Operations Research, Geospatial Analysis, Data Visualization, I thrive on extracting meaningful patterns from complex spatial datasets to address pressing global challenges.
 
