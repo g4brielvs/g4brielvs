@@ -15,7 +15,7 @@ With a background in Applied Mathematics, Operations Research, Geospatial Analys
 
 💬 [Drop me a line!](https://github.com/g4brielvs/g4brielvs/discussions) Ask me anything about `Data`, `Linguistics`, `Sci-fi` and `New York City`. Or tell me something you hold dear in you heart. 
 
-## 🔍 **Projects**:
+## 🔍 **Projects**
 
 Here I share a non-exaustive list of my contributions, experiments, projects, and tools aimed at advancing geospatial analysis and its application in addressing global challenges. Feel free to explore, collaborate, and innovate together!
 
