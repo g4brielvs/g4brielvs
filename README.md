@@ -9,11 +9,13 @@ My work is fueled by a commitment to using data to tackle critical global issues
 
 🛰️ Currently, I’m focused on projects that combine satellite imagery, spatial modeling, and data visualization to turn complex data into actionable insights. I’m always learning, staying at the cutting edge of technology to innovate and solve new challenges.
 
-🌟 I’m eager to connect with others who geek out over geospatial data, sustainability, and innovation. 💬 [Let's chat!](https://github.com/g4brielvs/g4brielvs/discussions)! Whether it’s about data, linguistics, sci-fi, or New York City, or simply sharing something close to your heart, I'm always happy to swap ideas and stories! 🚀
+🌟 I’m eager to connect with others who geek out over geospatial data, sustainability, and innovation. 
+
+💬 [Let's chat](https://github.com/g4brielvs/g4brielvs/discussions)! Whether it’s about data, linguistics, sci-fi, or New York City, or simply sharing something close to your heart, I'm always happy to swap ideas and stories! 🚀
 
 ## 🔍 **Projects**
 
-Here’s a curated list of my contributions, experiments, projects, and tools focused on advancing geospatial analysis and its role in tackling global challenges. Feel free to explore, collaborate, and innovate together!
+Here’s a curated list of my contributions, experiments, projects, and tools. Feel free to explore, collaborate, and innovate together!
 
 - [worldbank](https://github.com/worldbank)
 - [worldbank/blackmarblepy](https://worldbank.github.io/blackmarblepy)
