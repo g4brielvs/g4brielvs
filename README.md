@@ -3,7 +3,7 @@
 </h1>
 <br>
 
-I’m Gabriel, a Data Scientist with a passion for uncovering the stories data holds. Previously, I was part of the World Bank’s [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec/dev), where I explored the potential of spatial and alternative data to drive meaningful change in global development. Now, I've joined the [Office of the New York State Attorney General](https://ag.ny.gov/), where I apply my expertise in data science and engineering to champion justice for all and address some of society’s most pressing challenges.
+I’m Gabriel, a Data Scientist with a passion for uncovering the stories data holds. Previously, I was part of the World Bank’s [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec/dev), where I explored the potential of spatial and alternative data to drive meaningful change in global development. Now, I've joined the [Office of the New York State Attorney General](https://ag.ny.gov/), where I apply my expertise in data science and engineering to champion justice for all.
 
 My work is fueled by a commitment to using data to tackle critical global issues and advance the [Sustainable Development Goals](https://sdgs.un.org/goals). With a foundation in Applied Mathematics, Operations Research, and Geospatial Analysis, I focus on extracting insights from spatial data to inform policy decisions, support climate adaptation, and foster inclusive development.
 
