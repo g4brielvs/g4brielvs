@@ -3,7 +3,7 @@
 </h1>
 <br>
 
-Hello there! I’m Gabriel, a Data Scientist with a passion for uncovering the stories data holds. Currently, I’m part of the World Bank’s [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec/dev) 🌍, where I explore the potential of spatial and alternative data to create meaningful change in global development.
+I’m Gabriel, a Data Scientist with a passion for uncovering the stories data holds. Currently, I’m part of the World Bank’s [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec/dev) 🌍, where I explore the potential of spatial and alternative data to create meaningful change in global development.
 
 My work is driven by a deep commitment to using data to tackle critical global challenges and advance the [Sustainable Development Goals](https://sdgs.un.org/goals). With a foundation in Applied Mathematics, Operations Research, and Geospatial Analysis, I focus on extracting insights from spatial data to inform policy decisions, support climate adaptation, and foster inclusive development.
 
