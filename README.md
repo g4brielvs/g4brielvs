@@ -3,21 +3,17 @@
 </h1>
 <br>
 
-I'm Gabriel, an enthusiastic Geospatial Data Scientist dedicated to advancing the [Sustainable Development Goals](https://sdgs.un.org/goals) at the [Development Data Group/World Bank](https://www.worldbank.org/en/about/unit/unit-dec/dev) 🌐. 
+Hello there! I’m Gabriel, a Data Scientist with a passion for uncovering the stories data holds. Currently, I’m part of the World Bank’s [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec/dev) 🌍, where I explore the potential of spatial and alternative data to create meaningful change in global development.
 
-With a background in Applied Mathematics, Operations Research, Geospatial Analysis, Data Visualization, I thrive on extracting patterns and insights from spatial datasets to address pressing global challenges.
+My work is driven by a deep commitment to using data to tackle critical global challenges and advance the [Sustainable Development Goals](https://sdgs.un.org/goals). With a foundation in Applied Mathematics, Operations Research, and Geospatial Analysis, I focus on extracting insights from spatial data to inform policy decisions, support climate adaptation, and foster inclusive development.
 
-🛰️ **Current Focus**: At the World Bank, I'm engaged in pioneering projects that harness geospatial data to inform policy decisions, tackle climate change adaptation, and promote inclusive development worldwide. From analyzing satellite imagery to modeling spatial patterns, my aim is to create actionable insights that drive positive change.
+🛰️ At the moment, I’m focused on projects that combine satellite imagery, spatial modeling, and data visualization to turn complex data into actionable insights. I’m always learning, staying at the cutting edge of technology to innovate and solve new challenges.
 
-📚 **Continuous Learning**: I'm a firm believer in lifelong learning, constantly exploring new methodologies, and staying updated with the latest advancements in technology to push the boundaries of what's possible.
-
-🌟 **Let's Connect**: I'm excited to engage with like-minded professionals, researchers, and enthusiasts passionate about geospatial data science and its transformative potential. Let's collaborate, learn, and make an impact together!
-
-💬 [Drop me a line!](https://github.com/g4brielvs/g4brielvs/discussions) Ask me anything about `Data`, `Linguistics`, `Sci-fi` and `New York City`. Or tell me something you hold dear in you heart. 
+🌟 I’m eager to connect with others who geek out over geospatial data, sustainability, and innovation. 💬 [Let's chat!](https://github.com/g4brielvs/g4brielvs/discussions)! Whether it’s about data, linguistics, sci-fi, or New York City, or simply sharing something close to your heart, I'm always happy to swap ideas and stories! 🚀
 
 ## 🔍 **Projects**
 
-Here I share a non-exaustive list of my contributions, experiments, projects, and tools aimed at advancing geospatial analysis and its application in addressing global challenges. Feel free to explore, collaborate, and innovate together!
+Here’s a curated list of my contributions, experiments, projects, and tools focused on advancing geospatial analysis and its role in tackling global challenges. Feel free to explore, collaborate, and innovate together!
 
 - [worldbank](https://github.com/worldbank)
 - [worldbank/blackmarblepy](https://worldbank.github.io/blackmarblepy)
