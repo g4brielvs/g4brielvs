@@ -1,4 +1,4 @@
-<h1 align="center">
+lá<h1 align="center">
   Hi, I'm <a href="https://g4brielvs.me" target="_blank">Gabriel</a> 👋
 </h1>
 <br>
@@ -11,7 +11,7 @@ I've joined the [Office of the New York State Attorney General](https://ag.ny.go
 
 ## 🔍 **Projects**
 
-Here’s a curated list of my contributions, experiments, projects, and tools. Feel free to explore, collaborate, and innovate together!
+Here’s a nom-exaustive list of my contributions, projects and tools. Feel free to explorr and collaborate!
 
 - [worldbank](https://github.com/worldbank)
 - [worldbank/blackmarblepy](https://worldbank.github.io/blackmarblepy)
