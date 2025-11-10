@@ -3,7 +3,7 @@
 </h1>
 <br>
 
-I’m Gabriel, a Data Engineer with a passion for uncovering the stories data holds. My work centers on leveraging data and geospatial analysis to address global challenges and advance the [Sustainable Development Goals](https://sdgs.un.org/goals). With a background in applied mathematics, operations research, and geospatial analysis, I focus on turning complex dataset into insights that inform policy, guide climate adaptation and promote equitable development. Currently, my projects integrate satellite imagery, spatial modeling and data visualization to translate geospatial information into evidence-based decision making.
+I’m Gabriel, a Data Engineer with a passion for uncovering the stories data hold. With a background in applied mathematics, operations research and geospatial analysis, my work centers My work is guided by the [Sustainable Development Goals](https://sdgs.un.org/goals) and centers on translating complex datasets into insights that inform policy, guide climate adaptation and promote equitable development. Currently, my projects integrate satellite imagery, spatial modeling and data visualization to translate geospatial information into evidence-based decision making.
 
 I've joined the [Office of the New York State Attorney General](https://ag.ny.gov/), where I apply my expertise in data science and engineering to champion justice for all. Previously, I was part of the World Bank’s [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec/dev), where I explored the potential of spatial and alternative data to drive meaningful change in global development. 
 
