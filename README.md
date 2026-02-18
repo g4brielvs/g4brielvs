@@ -1,4 +1,4 @@
-lá<h1 align="center">
+<h1 align="center">
   Hi, I'm <a href="https://g4brielvs.me" target="_blank">Gabriel</a> 👋
 </h1>
 <br>
