@@ -3,11 +3,9 @@
 </h1>
 <br>
 
-I’m Gabriel, a Data Engineer with a passion for uncovering the stories data hold. With a background in applied mathematics, operations research and geospatial analysis, my work centers My work is guided by the [Sustainable Development Goals](https://sdgs.un.org/goals) and centers on translating complex datasets into insights that inform policy, guide climate adaptation and promote equitable development. Currently, my projects integrate satellite imagery, spatial modeling and data visualization to translate geospatial information into evidence-based decision making.
+I’m Gabriel! I'm currently with the [Office of the New York State Attorney General](https://ag.ny.gov/), where I apply data science and engineering to champion justice for all. Before that, I was part of the World Bank’s [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec/dev), exploring the potential of alternative data for global development. 
 
-I've joined the [Office of the New York State Attorney General](https://ag.ny.gov/), where I apply my expertise in data science and engineering to champion justice for all. Previously, I was part of the World Bank’s [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec/dev), where I explored the potential of spatial and alternative data to drive meaningful change in global development. 
-
-💬 [Let's chat](https://github.com/g4brielvs/g4brielvs/discussions)! I’m eager to connect with others who geek out over geospatial data, sustainability, and innovation. Whether it’s about data, linguistics, sci-fi, or New York City, or simply sharing something close to your heart, I'm always happy to swap ideas and stories!
+💬 [Let's chat](https://github.com/g4brielvs/g4brielvs/discussions)! I love connecting with people who geek out over geospatial data or just good questions. I'm always happy to swap ideas and stories!
 
 ## 🔍 **Projects**
 
