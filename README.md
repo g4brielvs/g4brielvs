@@ -3,7 +3,7 @@
 </h1>
 <br>
 
-I’m Gabriel! I'm currently with the [Office of the New York State Attorney General](https://ag.ny.gov/), where I apply data science and engineering to champion justice for all. Before that, I was part of the World Bank’s [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec/dev), exploring the potential of alternative data for global development. 
+I'm currently with the [Office of the New York State Attorney General](https://ag.ny.gov/), where I apply data science and engineering to champion justice for all. Before that, I was part of the World Bank’s [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec/dev), exploring the potential of alternative data for global development. 
 
 💬 [Let's chat](https://github.com/g4brielvs/g4brielvs/discussions)! I love connecting with people who geek out over geospatial data or just good questions. I'm always happy to swap ideas and stories!
 
