@@ -9,7 +9,7 @@ I'm currently with the [Office of the New York State Attorney General](https://a
 
 ## 🔍 **Projects**
 
-Here’s a nom-exaustive list of my contributions, projects and tools. Feel free to explorr and collaborate!
+Here’s a non-exhaustive list of my contributions, projects and tools. Feel free to explore and collaborate!
 
 - [worldbank](https://github.com/worldbank)
 - [worldbank/blackmarblepy](https://worldbank.github.io/blackmarblepy)
