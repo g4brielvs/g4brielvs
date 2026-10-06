@@ -1,9 +1,8 @@
 <h1 align="center">
   Hi, I'm <a href="https://g4brielvs.me" target="_blank">Gabriel</a> 👋
 </h1>
-<br>
 
-I'm currently with the [Office of the New York State Attorney General](https://ag.ny.gov/), where I apply data science and engineering to champion justice for all. Before that, I was part of the World Bank’s [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec/dev), exploring the potential of alternative data for global development. 
+Applying data science and engineering to champion justice for all at the [Office of the New York State Attorney General](https://ag.ny.gov/). Former member of the World Bank’s [Development Data Group](https://www.worldbank.org/en/about/unit/unit-dec/dev/about) and the [Development Data Partnership](https://datapartnership.org/), focusing on the potential of alternative data for global development.
 
 ## 🔍 **Projects**
 
